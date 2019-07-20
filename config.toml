@@ -2,3 +2,6 @@ baseURL = "https://vegai.fi"
 languageCode = "en-us"
 title = "vegai.fi"
 theme = "basics"
+
+[params]
+author = ""
